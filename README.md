@@ -5,7 +5,7 @@ It supports multiple architectures, including Resnet (single RGB input), Late Fu
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 Comp90086_Nutrition5k
 ├── Nutrition5K # Nutrition5k dataset
@@ -22,7 +22,7 @@ Comp90086_Nutrition5k
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 To train a model, modify the argument values in the corresponding shell script (e.g., dataset path, batch size, epochs, learning rate), then run:
 
